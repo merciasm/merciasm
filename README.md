@@ -14,6 +14,5 @@
 
  🖥️ Github stats:
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merciasm&theme=gotham&show_icons=true&count_private=true&show_icons=true)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merciasm&layout=compact&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=merciasm&theme=gotham)
   
