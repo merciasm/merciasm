@@ -8,8 +8,9 @@
  - 🌱 I’m learning more about data science
  
  ###### Also:
- - 👩‍🔬 I have a background in biotechnology, you can find my papers and more info here: [Lattes](http://lattes.cnpq.br/3430108437126138)
+ - 👩‍🔬 I have a background in biotechnology, where I had the opportunity to be a Junior Reasearcher for some time. You can find my papers and more info here: [Lattes](http://lattes.cnpq.br/3430108437126138)
  - 🔬 I love studying biology, chemestry and I'm always reading scientific papers.
+ - I speak Portuguese, English, some Spanish, and I started learning French in 2021.
  - ⚡ Fun fact: Sometimes I talk like Stitch
 
  🖥️ Github stats:
