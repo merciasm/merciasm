@@ -1,8 +1,8 @@
 ### Hi there, I'm Mércia 👋
 
 ###### Currently:
- - 🍎 I'm an iOS software developer learning Flutter
- - 💻 I’m working at Jungle Devs
+ - 🍎 I'm an iOS software developer
+ - 💻 I’m working as an independent contractor for an American Startup
  - 🏙️ I live in Florianopolis, SC, Brazil
  - 👩‍🎓 I'm an undergrad student in Information Systems at Universidade Federal de Santa Catarina - UFSC
  - 🌱 I’m learning more about data science
